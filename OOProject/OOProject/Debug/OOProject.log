@@ -1,4 +1,4 @@
-  Animal.cpp
+﻿  Animal.cpp
 C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\Animal.cpp(80,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
 C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\Animal.cpp(80,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
   Cow.cpp
