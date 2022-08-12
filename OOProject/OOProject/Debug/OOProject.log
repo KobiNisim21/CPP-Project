@@ -1,0 +1,24 @@
+  Animal.cpp
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\Animal.cpp(80,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\Animal.cpp(80,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Cow.cpp
+  Dog.cpp
+  Mammal.cpp
+  OOProject.cpp
+  OOProjectDlg.cpp
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\OOProjectDlg.cpp(33,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\OOProjectDlg.cpp(168,124): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\OOProjectDlg.cpp(168,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\OOProjectDlg.cpp(168,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\OOProjectDlg.cpp(168,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\OOProjectDlg.cpp(175,124): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\OOProjectDlg.cpp(175,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\OOProjectDlg.cpp(175,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\OOProjectDlg.cpp(175,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\OOProjectDlg.cpp(233,40): warning C4838: conversion from 'LONG' to 'double' requires a narrowing conversion
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\OOProjectDlg.cpp(291): message : see reference to function template instantiation 'void COOProjectDlg::AddAnimal<Dog>(void)' being compiled
+C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\OOProject\OOProjectDlg.cpp(233,49): warning C4838: conversion from 'LONG' to 'double' requires a narrowing conversion
+  Reptile.cpp
+  Snake.cpp
+  Generating Code...
+  OOProject.vcxproj -> C:\Users\user\Desktop\HIT\תכנות מונחה עצמים\repos\OOProject\Debug\OOProject.exe
